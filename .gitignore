@@ -3,3 +3,9 @@ node_modules
 npm-debug.log
 data/schema.graphql
 .idea/
+.flowconfig
+
+node_modules/
+public/bundle.js
+public/bundle.js.map
+cache/schema.json
